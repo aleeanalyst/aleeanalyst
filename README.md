@@ -8,7 +8,7 @@
   - Power BI for data visualization
 - 🎯 I’m building my portfolio with **real-world data projects** and would love to collaborate or contribute to open-source analytics tasks.
 - 💼 Open to internships or entry-level roles in **data analytics**.
-- 📫 Reach me at: your.aleenapabaraham@gmail.com  
+- 📫 Reach me at:aleenapabaraham@gmail.com  
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I love turning boring numbers into powerful visual stories!
 
